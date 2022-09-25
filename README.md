@@ -17,6 +17,7 @@ import { Playground } from '../components/playground/index.tsx';
 
 ```
 - views 写入组件的源码部分，最后会用 playground 组件渲染到 mdx 中
+![效果图](https://tva1.sinaimg.cn/large/e6c9d24ely1h6iuki22xtj21jw0u076y.jpg)
 
 # 主题
 1. App.js 中默认的主题，可以根据对应生成的标签修改主题颜色
